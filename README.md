@@ -23,7 +23,4 @@ The repository demonstrates:
 
 3. **Integration**: Use BERT embeddings for various NLP tasks like sentiment analysis or text classification.
 
-## Contributing
-
-Contributions are welcome! Please feel free to open issues or pull requests for improvements or new features.
 
