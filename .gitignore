@@ -1,0 +1,21 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+env/
+*.env
+
+# TensorFlow
+logs/
+saved_models/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
+Thumbs.db
